@@ -10,5 +10,3 @@ I only make projects for ![Windows](https://img.shields.io/badge/Windows-0078D6?
 
 ## 🔗 Links
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Skxrpt/)
-[![Discord](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/Ds6fsvYTVW)
-
