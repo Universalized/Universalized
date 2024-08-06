@@ -18,4 +18,3 @@ I only make projects for
 - Github = [@Fast-Voider](https://www.github.com/Fast-Voider)
 - Vacban = [@xen0](https://vacban.wtf/members/70676/)
 - UnknownCheats = [@Cxyd3n](https://www.unknowncheats.me/forum/members/4702196.html)
-- Discord Server = [Click here](https://discord.gg/Ds6fsvYTVW)
