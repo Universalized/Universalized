@@ -1,8 +1,6 @@
 
 ## 🚀 About Me
-My aliases are
-
-Syphic, Syphc, Fastvoider, FastCW, Fxmbxy, Skxrpt, Sky
+My alias is Gweaking
 
 I mainly use these languages! 
 
