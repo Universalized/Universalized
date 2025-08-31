@@ -13,6 +13,7 @@ I only make projects for
 ## 🔗 Links
 
 - Youtube [@Skxrpt](https://youtube.com/@Skxrpt)
+- Twitch [@L1vesOwns](https://www.twitch.tv/l1vesowns)
 - Github = [@Fast-Voider](https://www.github.com/Fast-Voider)
 - Vacban = [@xen0](https://vacban.wtf/members/70676/)
 - UnknownCheats = [@Cxyd3n](https://www.unknowncheats.me/forum/members/4702196.html)
