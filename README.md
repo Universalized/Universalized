@@ -1,6 +1,7 @@
 
 ## 🚀 About Me
 My alias is Universalized
+-# nothing is forever...
 
 I mainly use these languages! 
 
@@ -13,7 +14,7 @@ I only make projects for
 ## 🔗 Links
 
 - Youtube [@Skxrpt](https://youtube.com/@Skxrpt)
-- Twitch [@L1vesOwns](https://www.twitch.tv/l1vesowns)
+- Twitch [@UniversalizedV2](https://www.twitch.tv/universalizedv2)
 - Github = [@Universalized](https://www.github.com/Universalized)
 - Vacban = [@xen0](https://vacban.wtf/members/70676/)
 - UnknownCheats = [@Cxyd3n](https://www.unknowncheats.me/forum/members/4702196.html)
