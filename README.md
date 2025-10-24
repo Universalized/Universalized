@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 My alias is Universalized
-<span style="font-size:10px;">Nothing is forever...</span>
+<small>This text is small.</small>
 
 I mainly use these languages! 
 
