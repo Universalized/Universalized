@@ -17,4 +17,4 @@ I only make projects for
 - Twitch [@UniversalizedV2](https://www.twitch.tv/universalizedv2)
 - Github = [@Universalized](https://www.github.com/Universalized)
 - Vacban = [@xen0](https://vacban.wtf/members/70676/)
-- UnknownCheats = [@Cxyd3n](https://www.unknowncheats.me/forum/members/4702196.html)
+- Discord = [@Gweaking](https://discordapp.com/users/1369459025607135295)
